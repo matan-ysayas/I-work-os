@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "concurrently": "^7.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "firebase": "^9.6.10",
+    "mongoose": "^6.2.10",
+    "nodemon": "^2.0.15"
+  },
+  "name": "i-work-os",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Shiber, Matan Yasayas, Amir Mangistop, Tikva Yosef, Shay Belayneh",
+  "license": "ISC",
+  "description": ""
+}
